@@ -21,7 +21,7 @@ Este repositório faz parte do meu desafio pessoal de criar **50 exercícios pr�
 
 ## 📂 Estrutura dos arquivos
 
-. ├── src/ │   ├── Exercicio01.java │   ├── Exercicio02.java │   ├── ... │   └── Exercicio50.java └── README.md
+. ├── src/ │   ├── Exercicio01.java │   ├── Exercicio02.java │   ├── ... │   └── Exercicio50.java
 
 Cada arquivo contém um exercício independente. O enunciado está incluído como comentário no topo de cada arquivo, seguido da implementação.
 
